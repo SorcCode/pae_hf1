@@ -1,10 +1,11 @@
-### 1
-Ábrázolás kész
-Kérdésekre válasz kell
+# Pénzügyi adatelemzés 1. házi feladat
 
-### 2
-### 3
-### 4
-### 5
-### 6
+### 1. Feladat
+Ábrázolás kész, kérdésekre válasz még kell, szépség nem számít
+
+### 2. Feladat
+### 3. Feladat
+### 4. Feladat
+### 5. Feladat
+### 6. Feladat
 
