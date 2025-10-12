@@ -8,4 +8,3 @@ Elmélet még nincs meg
 ### 4. Feladat - Breusch-Pagan teszt definiálása
 ### 5. Feladat - Breucsch-Pagan teszt szimuláció
 ### 6. Feladat - Hipotézisvizsgálat
-
