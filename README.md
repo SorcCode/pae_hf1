@@ -1,4 +1,4 @@
-# Pénzügyi adatelemzés háfi feladatok megoldása 2025
+# Pénzügyi adatelemzés házi feladatok megoldása - 2025
 
 Budapesti Corvinus Egyetem
 
