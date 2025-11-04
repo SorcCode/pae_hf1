@@ -2,8 +2,16 @@
 
 Budapesti Corvinus Egyetem
 
----
-
 ## 1. Házi
 
 Heteroszkedaszticitás, Breusch-Pagan teszt és szimulációk
+
+Határidők:
+
+2. HF: nov 9. (vasárnap)
+
+3. HF: nov 19 (szerda, egyéni!)
+
+4. HF: dec 3. (szerda)
+
+5. HF: dec 16 (kedd, egyéni!)
