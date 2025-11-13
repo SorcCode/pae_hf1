@@ -10,7 +10,7 @@ Határidők:
 
 2. HF: nov 9. (vasárnap)
 
-3. HF: nov 19 (szerda, egyéni!)
+3. HF: nov 23 (szerda, egyéni!)
 
 4. HF: dec 3. (szerda)
 
